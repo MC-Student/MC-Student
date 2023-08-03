@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MC-Student - computer science major, finance minor!
 - 👀 I’m interested in Software Development/Engineering, AI, Cybersecurity, FinTech, Web Development, UI/UX, Data Science, and Big Data...so much potential out there! Especially anything cross-disciplinary.
-- 🌱 I’m currently learning Data Structures in Java, Operating Systems, Linux Systems Programming in C/C++, and lots more! I am also studying for the Microsoft Azure AI-900 certification test :)
+- 🌱 I’m currently a rising senior and will be taking my last 3 courses in the major: Programming Languages, Data Structures II, and Practicum in Software Development! Summer 2023 Back-End Developer intern @ Avanade :)
 - 💞️ I’m looking to collaborate on projects hopefully in the near future...
 
 <!---
