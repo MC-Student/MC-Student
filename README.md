@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MC-Student - computer science major, finance minor!
-- 👀 I’m interested in Software Development/Engineering. The fields of AI, Cybersecurity, and FinTech are some of my favorites! Especially anything cross-disciplinary.
+- 👀 I’m interested in Software Development/Engineering. The fields of FinTech (I'm a finance minor), Cybersecurity, and AI are some of my favorites!
 - 🌱 I’m currently a senior and am finishing up the major (graduating in June), so I'm applying to entry level/new grad opportunities in back-end software engineering.
 - 💞️ I’m looking to collaborate on projects hopefully in the near future...
 
